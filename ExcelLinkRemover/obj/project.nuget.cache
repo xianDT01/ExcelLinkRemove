@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwLrfkr+kzLZHe1dtgRAVk3fJSrFU+m8EJrjUOZRreWe7/jvL8wAspl/8I90ZCtYo9vKy6OZ0A4LVACYFJM4Fg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Xian\\Documents\\ExcelLinsksRemove\\ExcelLinkRemover\\ExcelLinkRemover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xian\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\Xian\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\Xian\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
